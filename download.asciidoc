@@ -6,16 +6,3 @@ with MPRester ("Js0y7wlKAQ1kbIXr") as m:
     structure = m.get_structure_by_material_id("mp-11178")
 ----
 
-
-+*In[ ]:*+
-[source, ipython3]
-----
-
-----
-
-
-+*In[ ]:*+
-[source, ipython3]
-----
-
-----
