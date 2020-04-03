@@ -1,8 +1,0 @@
-+*In[3]:*+
-[source, ipython3]
-----
-from pymatgen.ext.matproj import MPRester
-with MPRester ("Js0y7wlKAQ1kbIXr") as m:
-    structure = m.get_structure_by_material_id("mp-11178")
-----
-
